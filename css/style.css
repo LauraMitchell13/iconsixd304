@@ -78,7 +78,9 @@ text-align: center;
     padding-top: 10em;
 }
 .cloud {
+    height:60vh;
     position: inherit;
+    padding-bottom: 5em;
 }
 
 .fruit {
