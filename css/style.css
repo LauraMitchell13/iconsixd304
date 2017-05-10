@@ -1,0 +1,144 @@
+* { /* reset */
+    
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    
+}
+
+
+body {
+font-family: 'Amatica SC', cursive;
+    color: #fff; /* was #484848 */
+    
+}
+
+header {
+    height: 230vh;	
+     background-image: url(../images/background.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+text-align: center;
+    text-align: center;
+    padding: 50px;
+    
+}
+
+.sectionOne {
+height: 7vh;	
+background-color: #5CA507;
+text-align: center;
+    padding-top: 4em;
+    padding-bottom: 4em;
+
+}
+
+.sectionTwo {
+height: 70vh;	
+background-color: #fff;
+text-align: center;
+    padding-top: 4em;
+
+}
+
+.sectionThree {
+height: 70vh;	
+background-color: #fff;
+text-align: center;
+    padding-top: 4em;
+
+}
+
+.sectionFive {
+height: 50vh;	
+background-color: #fff;
+text-align: center;
+    padding-top: 4em;
+
+}
+h1 {
+    color: #fff;
+font-family: 'Amatica SC', cursive;
+    font-size: 8em;
+    padding-top: 7em;
+}
+
+h2 {
+    color: #000;
+font-family: 'Amatica SC', cursive;
+    font-size: 4em;
+    padding-top: 0em;
+}
+
+p {
+    color: #000;
+font-family: 'Amatica SC', cursive;
+    font-size: 1.5em;
+    padding-top: 0em;
+}
+
+footer {
+    height: 20vh;	
+background-color: #fff;
+text-align: center;
+    padding-top: 4em;
+}
+.cloud {
+    position: inherit;
+}
+
+.fruit {
+    padding-top: 3em;
+    padding-left: 10em;
+
+    
+}
+
+.veg {
+    padding-top: 3em;
+    padding-left: 10em;
+    
+}
+
+.wrap {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -86px;
+	margin-left: -89px;
+	text-align: center;
+}
+
+a {
+	-webkit-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-moz-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-ms-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-o-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	display: block;
+	margin: 20px auto;
+	max-width: 180px;
+	text-decoration: none;
+	border-radius: 4px;
+	padding: 20px 30px;
+}
+
+a.button {
+	color: rgba(30, 22, 54, 0.6);
+	box-shadow: rgba(30, 22, 54, 0.4) 0 0px 0px 2px inset;
+}
+
+a.button:hover {
+	color: rgba(255, 255, 255, 0.85);
+	box-shadow: rgba(30, 22, 54, 0.7) 0 0px 0px 40px inset;
+}
+
+a.button2 {
+	color: rgba(30, 22, 54, 0.6);
+	box-shadow: rgba(30, 22, 54, 0.4) 0 0px 0px 2px inset;
+}
+
+a.button2:hover {
+	color: rgba(255, 255, 255, 0.85);
+	box-shadow: rgba(30, 22, 54, 0.7) 0 80px 0px 2px inset;
+}
