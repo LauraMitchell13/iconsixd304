@@ -45,7 +45,7 @@ text-align: center;
 }
 
 .sectionThree {
-    background-image: url(../images/cloud.svg);
+    background-image: url(../images/cloud2.svg);
      background-repeat: no-repeat;
 height: 100vh;	
 background-color: #fff;
@@ -89,14 +89,14 @@ text-align: center;
 }
 
 .fruit {
-    padding-top: 3em;
+    padding-top: 6em;
     padding-left: 10em;
 
     
 }
 
 .veg {
-    padding-top: 3em;
+    padding-top: 6em;
     padding-left: 10em;
     
 }
