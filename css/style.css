@@ -35,10 +35,12 @@ text-align: center;
 }
 
 .sectionTwo {
-height: 100vh;	
-background-color: #fff;
+height: 110vh;
+    background-image: url(../images/cloud.svg);
+        background-repeat: no-repeat;
 text-align: center;
     padding-top: 4em;
+    padding-bottom: 4em;
 
 }
 
