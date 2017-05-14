@@ -26,17 +26,17 @@ text-align: center;
 
 .sectionOne {
 height: 110vh;	
-background-image: url(../images/cloud.svg);
+background-image: url(../images/grass.svg);
     background-repeat: no-repeat;
 text-align: center;
     padding-top: 4em;
-    padding-bottom: 4em;
+    padding-bottom: em;
 
 }
 
 .sectionTwo {
 height: 110vh;
-    background-image: url(../images/cloud.svg);
+    background-image: url(../images/cloud2.svg);
         background-repeat: no-repeat;
 text-align: center;
     padding-top: 1em;
@@ -45,6 +45,8 @@ text-align: center;
 }
 
 .sectionThree {
+    background-image: url(../images/cloud.svg);
+     background-repeat: no-repeat;
 height: 100vh;	
 background-color: #fff;
 text-align: center;
