@@ -103,11 +103,12 @@ text-align: center;
     padding-left: 16em;
     
     
+    
 }
 
 .wrap {
 	position: absolute;
-	top: 610%;
+	top: 605%;
 	left: 52%;
     margin-top: -86px;
 	margin-left: -89px;
