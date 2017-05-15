@@ -25,7 +25,7 @@ text-align: center;
 }
 
 .sectionOne {
-height: 110vh;	
+height: 95vh;	
 background-image: url(../images/grass.svg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -69,7 +69,7 @@ h2 {
     color: #000;
 font-family: 'Amatica SC', cursive;
     font-size: 4em;
-    padding-top: ;
+    padding-top: -1em;
 }
 
 p {
@@ -88,19 +88,20 @@ text-align: center;
 .cloud2 {
     height:60vh;
     position: inherit;
+    padding-top: 3em;
     padding-bottom: 5em;
 }
 
 .fruit {
-    padding-top: 1em;
     padding-left: 10em;
 
     
 }
 
 .veg {
-    padding-top: 1em;
-    padding-left: 10em;
+    width: 70vw;
+    padding-left: 16em;
+    
     
 }
 
