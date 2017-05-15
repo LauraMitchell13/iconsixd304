@@ -79,7 +79,7 @@ font-family: 'Amatica SC', cursive;
 }
 
 footer {
-    height: 50vh;	
+    height: 5vh;	
 background-color: #fff;
 text-align: center;
     padding-top: 10em;
@@ -107,8 +107,8 @@ text-align: center;
 
 .wrap {
 	position: absolute;
-	top: 615%;
-	left: 50%;
+	top: 610%;
+	left: 52%;
     margin-top: -86px;
 	margin-left: -89px;
 	text-align: center;
